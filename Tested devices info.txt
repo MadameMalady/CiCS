@@ -1,0 +1,19 @@
+CiCS tested devices/ ios versions
+
+
+
+Device			ios version	Jailbroken	Program works
+
+
+iPhone 6s		13.3.1		Yes		Yes
+
+iPhone 6s		14.3		Yes		Yes
+
+iPhone 7 Plus		13.6.1		No		Yes
+
+iPad 7th Gen		14.0.1		No		Yes
+
+iPad 7th Gen		14.3		No		Yes
+
+
+
